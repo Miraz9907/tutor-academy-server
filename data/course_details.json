@@ -4,7 +4,7 @@
       "course_id": "01",
       "price": "$2,326.86",
       "picture": "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "view": 36,
+      "view": 300000,
       "title": "HTML used to describe the structure of web pages",
       "rating":"5",
       "author": {
@@ -13,9 +13,9 @@
         "published_date": "2022-06-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       }, 
-      "enroll": 28,
+      "enroll": 280000,
       "courseTitle": "HTML",
-      "introduction": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
+      "introduction": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. Learning HTMl is important because Having the knowledge to build your own website with HTML gives you the chance to stand out from the crowd with an authentic, hand-crafted representation of your business, or any business for that matter. Save money on every site you may want to build in the future, and build better websites with HTML .",
       "company": "NIMON",
       "email": "elenageorge@nimon.com",
       "phone": "+1 (801) 549-2530",
@@ -28,7 +28,7 @@
       "course_id": "02",
       "price": "$1,534.36",
       "picture": "https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "view": 35,
+      "view": 30000,
       "title": "Create design for your HTML page using CSS ",
       "rating":"5",
       "author": {
@@ -37,7 +37,7 @@
         "published_date": "2022-07-30 16:38:45",
         "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       },
-      "enroll": 35,
+      "enroll": 25000,
       "courseTitle": "CSS",
       "introduction": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
       "company": "TINGLES",
@@ -52,8 +52,8 @@
       "course_id": "03",
       "price": "$3,052.80",
       "picture": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "view": 32,
-      "title": "Make your design fast and responsive with your device",
+      "view": 32000,
+      "title": "Make your design fast and responsive with your device using bootstrap",
       "rating":"4.8",
       "author": {
         "name": "Stephen G. Hone",
@@ -61,7 +61,7 @@
         "published_date": "2022-10-30 16:48:35",
         "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       },
-      "enroll": 30,
+      "enroll": 30000,
       "courseTitle": "Bootstrap",
       "introduction":" Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.",
       "company": "FARMAGE",
@@ -76,8 +76,8 @@
       "course_id": "04",
       "price": "$1,852.55",
       "picture": "https://images.unsplash.com/photo-1576936422505-18d321d54d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "view": 30,
-      "title": "Make your design fast and responsive with your device",
+      "view": 25000,
+      "title": "Make your design fast and responsive with your device using tailwind",
       "rating":"4.5",
       "author": {
         "name": "Nikolaj M. Andresen",
@@ -85,7 +85,7 @@
         "published_date": "2022-11-30 16:38:45",
         "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
       },
-      "enroll": 22,
+      "enroll": 22000,
       "courseTitle": "Tailwind",
       "introduction":"Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.",
       "company": "ZBOO",
@@ -100,8 +100,8 @@
       "course_id": "05",
       "price": "$2,071.43",
       "picture": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "view": 24,
-      "title": "Create dynamic behavior on your HTML & CSS ",
+      "view": 34,
+      "title": "Create dynamic behavior on your HTML & CSS page ",
       "rating":"5",
       "author": {
         "name": "Maya Maxted",
@@ -109,7 +109,7 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1587614382231-d1590f0039e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       },
-      "enroll": 34,
+      "enroll": 30000,
       "courseTitle": "Javascript",
       "introduction":"As a web developer, the three main languages we use to build websites are HTML, CSS, and JavaScript. JavaScript is the programming language, we use HTML to structure the site, and we use CSS to design and layout the web page. These days, CSS has become more than just a design language, though.",
       "company": "EXOTERIC",
@@ -124,8 +124,8 @@
       "course_id": "06",
       "price": "$2,951.88",
       "picture": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "view": 20,
-      "title": "Make you dynamic behavior smoothy",
+      "view": 30000,
+      "title": "Make you dynamic behavior smoothy using React",
       "rating":"5",
       "author": {
         "name": "Tosh F. Simonsen",
@@ -133,7 +133,7 @@
         "published_date": "2022-12-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1621592484082-2d05b1290d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
       }, 
-      "enroll": 35,
+      "enroll": 270000,
       "courseTitle": "React",
       "introduction":"React is a JavaScript library that specializes in helping developers build user interfaces, or UIs. In terms of websites and web applications, UIs are the collection of on-screen menus, search bars, buttons, and anything else someone interacts with to USE a website or app.",
       "company": "MAXEMIA",
